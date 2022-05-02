@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/service_menu"
+        android:title="Service"
+        android:icon="@drawable/ic_service"/>
+    <item
+        android:id="@+id/broadcast_receiver_menu"
+        android:title="Broadcast receiver"
+        android:icon="@drawable/ic_broadcast_receiver"/>
+    <item
+        android:id="@+id/content_provider_menu"
+        android:title="Content provider"
+        android:icon="@drawable/ic_content_provider"/>
+</menu>
